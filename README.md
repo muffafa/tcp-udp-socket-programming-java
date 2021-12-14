@@ -1,4 +1,4 @@
-# tcp-udp-socket-programming-java
+# :boom: tcp-udp-socket-programming-java
 Tcp and Udp Socket Programming Chat Application Java
 
 ## :sparkles: Intro
@@ -10,10 +10,10 @@ Welcome to Tcp-Udp Socket Programming With Java Sockets
 - And run it with ***java*** command.
   - **java TcpServer**
 
-### Important!
+### :exclamation: Important!
 Do not forget to run Server first!
 
-### Bind eror
+### :x: Bind eror
 You can check socket and actions with this command on windows cmd
 **netstat -ano | findstr** :***(port)***
 and you can stop all action in that pid with this command
