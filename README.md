@@ -6,9 +6,9 @@ Welcome to Tcp-Udp Socket Programming With Java Sockets
 
 ## How to use
 You have to compile code with javac command.
-**javac TcpServer.java** 
+- **javac TcpServer.java** 
 And run it with java command.
-**java TcpServer**
+- **java TcpServer**
 
 ### Important!
 Do not forget to run Server first!
