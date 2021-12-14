@@ -14,7 +14,7 @@ java TcpServer
 Do not forget to run Server first!
 
 # Bind eror
-you can check socket and actions with this command on windows cmd
+You can check socket and actions with this command on windows cmd
 // netstat -ano | findstr :(port)
 and you can stop all action in that pid with this command
 // taskkill /pid :(pid) /f
