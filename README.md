@@ -5,9 +5,9 @@ Tcp and Udp Socket Programming Chat Application Java
 Welcome to Tcp-Udp Socket Programming With Java Sockets
 
 ## How to use
-- You have to compile code with javac command.
+- You have to compile code with ***javac*** command.
   - **javac TcpServer.java** 
-- And run it with java command.
+- And run it with ***java*** command.
   - **java TcpServer**
 
 ### Important!
