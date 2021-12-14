@@ -15,7 +15,7 @@ Do not forget to run Server first!
 
 ### Bind eror
 You can check socket and actions with this command on windows cmd
-**netstat -ano | findstr **:***(port)***
+**netstat -ano | findstr** :***(port)***
 and you can stop all action in that pid with this command
 **taskkill /pid** :***(pid)*** **/f**
 
