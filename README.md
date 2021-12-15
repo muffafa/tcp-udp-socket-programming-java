@@ -20,5 +20,7 @@ and you can stop all action in that pid with this command
 **taskkill /pid** :***(pid)*** **/f**
 
 ## :sparkles: Muhammed Mustafa Savar 
-https://www.linkedin.com/in/muhammed-mustafa-savar-234783163/
+## :sparkles: Mecit Melih Hocaoğlu
+## :sparkles: Ömer Semi Ezer
+
         
